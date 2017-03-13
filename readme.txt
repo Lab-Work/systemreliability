@@ -1,4 +1,3 @@
-Ready
 (C) Raphael Stern, 2017
 
 There are two folders in this directory:
